@@ -1,116 +1,213 @@
-# THE MINIMAL THEME
+  ![Welcome to my profile](https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/PROFILE_PHOTO.jpg)
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+<hr>
+<!-- MAIN PHRASE SECTION -->
+<span align="center">
+  <span>
+    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
+      <span align="center">Alejandro Taboada Sanchez</span>
+    </h4>
+</span>
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+## 📌 About Me  
+I am a **Bachelor of Science in Civil Engineering** with experience in preparing technical reports and advanced proficiency in tools such as **Civil 3D, ArcGIS, and photogrammetry software like Agisoft Metashape**. I have a strong background in **programming**, with notable achievements in **automating reports using Python and LaTeX**, showcasing my ability to optimize technical processes.
 
-![Thumbnail of Minimal](thumbnail.png)
+I am passionate about **integrating artificial intelligence into civil engineering** to develop **innovative and efficient solutions**. I am quick to learn and adapt to new technologies, and I thrive in team environments that promote collaboration and results.
 
-## Usage
+- 📫 How to reach me: **ivanjuandedios12@gmail.com**  
 
-To use the Minimal theme:
 
-1. Add the following to your site's `_config.yml`:
 
-    ```yml
-    remote_theme: pages-themes/minimal@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+<!-- CONNECTION -->
+## 🌐 Connect with me:
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+[![Facebook](https://img.shields.io/badge/Facebook--blue?logo=Facebook&logoColor=white)](https://www.facebook.com/nolivan.juandediosrojas/)
+[![Instagram](https://img.shields.io/badge/Instagram--pink?logo=Instagram&logoColor=white)](https://www.instagram.com/ivan_jdd_tjgo/)
+[![X](https://img.shields.io/badge/X--blue?logo=X&logoColor=white)](https://x.com/ivanjuandedios1)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%C3%B1ol-ivan-juan-de-dios-rojas-600b36273/)
+[![YouTube](https://img.shields.io/badge/YouTube--red?logo=YouTube&logoColor=white)](https://www.youtube.com/@TJGO-JDD)
+[![TikTok](https://img.shields.io/badge/TikTok--black?logo=TikTok&logoColor=white)](https://www.tiktok.com/@ivanjddhood)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp--green?logo=whatsapp&logoColor=white)](https://wa.me/51917726087?text=Deseo%20informaci%C3%B3n%20sobre!%20....)
+[![Spotify](https://img.shields.io/badge/Spotify--black?logo=Spotify&logoColor=white)](https://open.spotify.com/user/21crxkbqieguhc6ogdkcf4hey?si=nde5_d97ShukDvxHakioQQ)
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
 
-## Customizing
+## 🛠️ Languages and Tools:
 
-### Configuration variables
+<p align="center">
+  <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/jupyter%20logo.png" width="5.6%" height="10%"></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/python%20logo.png" width="6%" height="10%"></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/vs%20code%20logo.png" width="6%" height="10%"></a>
+  <a href="https://colab.research.google.com/"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/colab%20logo.png" width="8.5%" height="10%"></a>
+  <a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/anaconda%20logo.png" width="6.4%" height="10%"></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/github%20logo.png" width="6.35%" height="10%"></a>
+  <a href="https://www.csiamerica.com/products/etabs"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/etabs%20logo.png" width="6%" height="10%"></a>
+  <a href="https://www.csiamerica.com/products/sap2000"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/sap2000%20logo.png" width="6%" height="10%"></a>
+  <a href="https://www.csiamerica.com/products/safe"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/safe%20logo.png" width="6%" height="10%"></a>
+  <a href="https://www.autodesk.com/products/revit/overview"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/revit%20logo.png" width="7.6%" height="10%"></a>
+  <a href="https://www.autodesk.com/products/autocad/overview"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/autocad%20logo1.png" width="6.65%" height="10%"></a>
+  <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/latex%20logo.png" width="12.5%" height="10%"></a>
+</p>
 
-Minimal will respect the following variables, if set in your site's `_config.yml`:
+## 🏗️ Main Projects
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">MAPS TJGO - PROGRAMA GRATIS PARA CREAR MAPAS DE UBICACIÓN AUTOMÁTICOS | EXPORTA MAPAS EN PDF Y PNG</h3>
+<div align="center">
+<a href="[https://tjgo-jdd.github.io/](https://www.youtube.com/watch?v=3sJ0f7o6EIw&t=98s)" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/MAPS.png" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://api.whatsapp.com/send/?phone=51917726087&text=Deseo+informaci%C3%B3n+sobre%21+....&type=phone_number&app_absent=0" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat">
+</a>
+<a href="https://www.youtube.com/watch?v=lXRnJEgfEGs&t=511s" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Este software permite generar mapas de ubicación departamental, provincial, distrital y específica de forma rápida y profesional, cargando archivos SHP y obteniendo resultados listos para presentar o imprimir.</p>
+</div>
+                                                                                      
+</td>
 
-Additionally, you may choose to set the following optional variables:
+<td width="50%">
+<br>
+<h3 align="center">TJGO Bridge Tools | Plataforma Inteligente para Análisis de Puentes con Líneas de Influencia</h3>
+<div align="center">                                       
+<a href="https://www.youtube.com/watch?v=EFWqeuEuPJE&t=1450s" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/BRIDGE.png" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://tjgo-lineasdeinfluencia.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=EFWqeuEuPJE&t=1450s" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>TJGO Bridge Tools es una plataforma web desarrollada para el cálculo automático de líneas de influencia, momentos flectores, fuerzas cortantes y cargas de carril en puentes de uno o múltiples tramos.
 
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+Esta herramienta está diseñada para ingenieros civiles, estudiantes de ingeniería estructural y proyectistas, con el objetivo de automatizar el análisis estructural, reducir tiempos de cálculo y mejorar la precisión en el diseño de puentes.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
-### Stylesheet
 
-If you'd like to add your own custom styles:
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">REPORTE AUTOMATICO DE DISTRIBUCIONES TEORICAS HIDROLOGIA (PYTHON - LATEX)</h3>
+<div align="center">
+<a href="[https://tjgo-jdd.github.io/](https://www.youtube.com/watch?v=3sJ0f7o6EIw&t=98s)" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/DE_1.png" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://github.com/TJGO-JDD/DISTRIBUCIONES-TEORICAS-PYTHON---LATEX" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/@TJGO-JDD" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>El script automatiza el análisis de datos históricos de precipitaciones, verificando su confiabilidad con la distribución de Weibull y validando los resultados mediante programas como Hidronomon e Hidroesta. Genera reportes técnicos con gráficos, tablas y análisis estadísticos, optimizando los estudios hidrológicos.</p>
+</div>
+                                                                                      
+</td>
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+<td width="50%">
+               <br>
+<h3 align="center">REPORTE AUTOMATICO MEMORIA DE ESTUDIO DE TRAFICO Y CALCULO DE ESAL (PYTHON LATEX) - TRAFIX.v1</h3>
+<div align="center">                                       
+<a href="https://www.youtube.com/watch?v=xwltan8D0vo&t=1188s" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/TRAFIX6.png" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/TJGO-JDD/TRAFIX_V1" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=xwltan8D0vo&t=1188s" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Este programa gestiona datos de tráfico vehicular y calcula el ESAL en estudios viales. Facilita el análisis del impacto del tránsito y la durabilidad de las carreteras, permitiendo generar reportes técnicos en formato LaTeX.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">PROGRAMA PARA EL DISEÑO DE ZAPATAS</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=j5eDhB1-_nA&t=5s" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/ZAP2.png" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/TJGO-JDD/ZAPATAS-HP-PRIME" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=j5eDhB1-_nA&t=5s" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Los programas para el diseño de zapatas en la calculadora HP Prime permiten realizar cálculos estructurales precisos y eficientes, considerando factores como la distribución de esfuerzos, la capacidad portante del suelo y las dimensiones de la zapata. Esto facilita el diseño rápido y seguro de fundaciones sin necesidad de software especializado, optimizando los tiempos de trabajo y asegurando el cumplimiento de las normativas de diseño.</p>
+</div>
+                                                                                      
+</td>       
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+<td width="50%">
+<h3 align="center">LINEAS DE INFLUENCIA PARA N TRAMOS</h3>
+<div align="center">
+<a href="https://tjgo-jdd.github.io/" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/PG1.gif" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/TJGO-JDD/LineasDeInfluenciPython" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=EFWqeuEuPJE&t=1450s" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Los programas para generar cálculos y gráficas de líneas de influencia de momentos, cortantes y reacciones analizan el comportamiento estructural de vigas o puentes bajo cargas variables. Calculan automáticamente los momentos, esfuerzos cortantes y reacciones en los apoyos, generando gráficas que muestran cómo cambian estas magnitudes con la posición de la carga. Esto optimiza el diseño estructural y mejora la toma de decisiones en proyectos de ingeniería civil.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
 
-### Layouts
+## 🤝 Support
 
-If you'd like to change the theme's HTML layout:
+If you’d like to support my future projects and help me continue creating innovative tools and resources, please feel free to make a donation using the QR code below. Your contributions make a big difference, and I truly appreciate your support!
 
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/minimal/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
+<h3 align="center">YAPE: ÑOL IVAN JUAN DE DIOS ROJAS:</h3>
+<p>
+  <a href="https://www.facebook.com/nolivan.juandediosrojas/">
+    <img align="center" src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/YAPE.jpeg" height="210" width="210" alt="josuerv99"/>
+  </a>
+</p>
+   
+<!-- GITHUB STATS -->
+<hr>
+<div style="display: block;">
+  <p>
+    <h3 align="center">Stats:</h3>
+    <a align="left">
+      <p><img align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=TJGO-JDD&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="TJGO-JDD" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=TJGO-JDD&show_icons=true&theme=dark&locale=en" alt="TJGO-JDD" /></p></a>  
+  </p>
+</div>
+<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-### Customizing Google Analytics code
 
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
+-----
+Credits: [Ñol Ivan Juan de Dios rojas]([https://github.com/JOSUERV99](https://www.facebook.com/nolivan.juandediosrojas/))
 
-### Overriding GitHub-generated URLs
-
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
-
-1. Look at [the template source](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
-
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
-
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+Last Edited on: 01/02/2025
